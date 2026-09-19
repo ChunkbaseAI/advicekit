@@ -25,3 +25,7 @@ The TypeScript implementation lives in [ChunkbaseAI/advicekit-js](https://github
 ## Licence
 
 Apache License 2.0. See [LICENSE](./LICENSE).
+
+## Contributing
+
+Read [AGENTS.md](./AGENTS.md), [CONTEXT.md](./CONTEXT.md), and [CONTRIBUTING.md](./CONTRIBUTING.md) before making a change.
